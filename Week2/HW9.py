@@ -1,3 +1,6 @@
+'''
+
+'''
 num = int(input())
 
 if num % 10 == 1 and num != 11:
